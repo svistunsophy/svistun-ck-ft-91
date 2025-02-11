@@ -1,0 +1,18 @@
+{
+    "firstName": "Софья",
+    "lastName": "Свистун",
+    "marks": [
+        {
+            "subject": "Информатика",
+            "mark": 5
+        },
+        {
+            "subject": "Физика",
+            "mark": 4
+        },
+        {
+            "subject": "Биология",
+            "mark": 3
+        }
+    ]
+}
